@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/UmarMustafa91230/umarmustafa91230/blob/main/New%20folder/banner-new.jpg)
 # 💫 Hi 👋, I'm Umar Mustafa
 **A passionate  MERN stack developer || Software Engineering Student  || COMSATS University Islamabad from Pakistan**
 
