@@ -1,5 +1,6 @@
 ![logo](https://github.com/UmarMustafa91230/umarmustafa91230/blob/main/New%20folder/banner-new.jpg)
 # 💫 Hi 👋, I'm Umar Mustafa
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=All+of+my+projects;Second+line+of+text)](https://git.io/typing-svg)
 **A passionate  MERN stack developer || Software Engineering Student  || COMSATS University Islamabad from Pakistan**
 
 Email Me 👉 ✉️ **um7554057@gmail.com** For Collaboration/Project or Anything Else. 😊😊
